@@ -1,6 +1,8 @@
 # Python and Weather API
 
-Objetive of this project: Create a Python script to visualize the weather of more than 500 cities across the world. Also create plots to find relationships between Latitude and other variables.
+## Objetive
+
+Create a Python script to visualize the weather of more than 500 cities across the world. Also create plots to find relationships between Latitude and other variables.
 
   The present Analysis presemts Scatter Plots to show relationship between:
     Temperature (F) vs. Latitude
@@ -38,10 +40,10 @@ Based on the information collected in this project, there is no evidence of rela
 
 
 
+## Objective
+To utilize jupyter-gmaps and the Google Places to analyze weather data to plan future vacations
 
-Objective: To utilize jupyter-gmaps and the Google Places to analyze weather data to plan future vacations
-
-Create a heat map that displays the humidity for every city from the part I of the homework.
+Create a heat map that displays the humidity for every city from the part I
 Ideal weather condition for the Ortiz Family: 
         Max tempeture of 95 and a min of 70
         Wind speed less than 10 mph.
