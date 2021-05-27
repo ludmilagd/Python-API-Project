@@ -1,5 +1,5 @@
-# Python-API- Challenge
-Part I
+# Python and Weather API
+
 Objetive of this project: Create a Python script to visualize the weather of more than 500 cities across the world. Also create plots to find relationships between Latitude and other variables.
 
   The present Analysis presemts Scatter Plots to show relationship between:
@@ -38,7 +38,6 @@ Based on the information collected in this project, there is no evidence of rela
 
 
 
-Part II - VacationPy
 
 Objective: To utilize jupyter-gmaps and the Google Places to analyze weather data to plan future vacations
 
