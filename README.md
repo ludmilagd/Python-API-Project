@@ -26,7 +26,7 @@ Randomly selected 500+ unique (non-repeat) cities based on latitude and longitud
 Performed a weather check on each of the cities using a series of successive API calls.
 
 
-Conclusions:
+## Findings
 
 Based on the colected information there is a clear correlation bewtween Tempeture and Latitude. The closer to 0 latitute the hotter is the City
 Even though a correlationship between Humidity and Latitude might not be that strong, there is patter where for cities with latitute above 40, Humidity is high
