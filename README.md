@@ -31,16 +31,19 @@ Conclusions:
 Based on the colected information there is a clear correlation bewtween Tempeture and Latitude. The closer to 0 latitute the hotter is the City
 Even though a correlationship between Humidity and Latitude might not be that strong, there is patter where for cities with latitute above 40, Humidity is high
 Based on the graph Latitude vs Wind Speed, evenly distributed across all latitudes we can conclude that latitude does not affect wind speed
-With a r-square of -.87 and a graph that clearly shows it, there is a strong negative correlationship beteen Tempeture and Latitute. The higher the latitute the lower the tempeture will be
-In the Southern Hemisphere the correlation between Latitude and Temperature is less strong than in the Northern. With confidence of predicting the Temp in fucntion of Latitude of the City of 67%
-In the Northern Hemisphere, there is not enough information to conclude any relationship between HUmidity and Latitude. However, above latitude 40 all the cities have a 40% or higher Humidity
+With a r-square of -.87 and a graph that clearly shows it, there is a strong negative correlationship beteen Tempeture and Latitute. 
+
+In the Southern Hemisphere the correlation between Latitude and Temperature is less strong than in the Northern. With confidence of predicting the Temp in fucntion of Latitude of the City of 67%.
+
+In the Northern Hemisphere, there is not enough information to conclude any relationship between HUmidity and Latitude. However, above latitude 40 all the cities have a 40% or higher Humidity.
+
 In conclusion, the Wind Speed cannot be predicted based on Latitute of the city
 There is a strong proven correlationship between Tempeture and Latitude. It is even stronger in the Nortther Hemisphere of the World, with a r-square of .87
 Based on the information collected in this project, there is no evidence of relationship between Humidity and Latitude
 
 
 
-## Objective
+## Google Places and Weather Data
 To utilize jupyter-gmaps and the Google Places to analyze weather data to plan future vacations
 
 Create a heat map that displays the humidity for every city from the part I
