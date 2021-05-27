@@ -2,7 +2,7 @@
 
 ## Objetive
 
-Create a Python script to visualize the weather of more than 500 cities across the world. Also create plots to find relationships between Latitude and other variables.
+To create a Python script to visualize the weather of more than 500 cities across the world randomly selected. Also create plots to find relationships and perform Linar Regression Analysis between Latitude and other variables.
 
   The present Analysis presemts Scatter Plots to show relationship between:
     Temperature (F) vs. Latitude
