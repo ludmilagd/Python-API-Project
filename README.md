@@ -55,3 +55,20 @@ Ideal weather condition for the Ortiz Family:
 Found 12 ideal cities to visit next Summer :) -> Definitly my next Vacation destination is Santa Ana, USA
 
 
+![image](https://user-images.githubusercontent.com/70984918/119898459-7eebf000-bf07-11eb-8daa-bd0006346f24.png)
+![image](https://user-images.githubusercontent.com/70984918/119898468-83b0a400-bf07-11eb-86b2-65a586ac56a3.png)
+
+![image](https://user-images.githubusercontent.com/70984918/119898480-86ab9480-bf07-11eb-9752-1e91f731c3ee.png)
+
+![image](https://user-images.githubusercontent.com/70984918/119898488-89a68500-bf07-11eb-8a88-e932fe174558.png)
+
+![image](https://user-images.githubusercontent.com/70984918/119898494-8c08df00-bf07-11eb-98c9-38a7780a4cbc.png)
+
+![image](https://user-images.githubusercontent.com/70984918/119898500-8f03cf80-bf07-11eb-9d3d-027b93f0085f.png)
+
+![image](https://user-images.githubusercontent.com/70984918/119898517-92975680-bf07-11eb-9a43-3afb9d180810.png)
+
+![image](https://user-images.githubusercontent.com/70984918/119898522-95924700-bf07-11eb-8b7b-70832a9b6143.png)
+![image](https://user-images.githubusercontent.com/70984918/119898536-9b882800-bf07-11eb-8695-dc650f9dfe2a.png)
+
+
