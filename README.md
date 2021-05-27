@@ -44,7 +44,7 @@ Based on the information collected in this project, there is no evidence of rela
 
 
 ## Google Places and Weather Data
-To utilize jupyter-gmaps and the Google Places to analyze weather data to plan future vacations
+G-maps and  Google Places to analyze weather data to plan future vacations
 
 Create a heat map that displays the humidity for every city from the part I
 Ideal weather condition for the Ortiz Family: 
